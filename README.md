@@ -60,6 +60,8 @@
 
 
 ![Image text](view.png)
+
+
 6.rtmp直播
 
 （如果要用rtsp直接转，可以把下面的video.mp4 换成rtsp://admin:123456@192.111.111.130:554/h264/ch4/main/av_stream）
