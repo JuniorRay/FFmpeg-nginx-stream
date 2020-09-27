@@ -1,0 +1,294 @@
+192.168.1.119 [17/Jul/2018:10:17:26 +0800] PUBLISH "live" "home" "" - 1835638 529 "" "FMLE/3.0 (compatible; Lavf58.17" (6s)
+192.168.1.119 [17/Jul/2018:10:17:30 +0800] PLAY "live" "home" "" - 372 1835660 "" "LNX 9,0,124,2" (8s)
+192.168.1.119 [17/Jul/2018:10:17:55 +0800] PLAY "live" "home" "" - 372 400797 "" "LNX 9,0,124,2" (4s)
+192.168.1.119 [17/Jul/2018:10:19:13 +0800] PUBLISH "live" "home" "" - 8391156 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+192.168.1.119 [17/Jul/2018:10:19:30 +0800] PLAY "live" "home" "" - 372 200708 "" "LNX 9,0,124,2" (22s)
+192.168.1.119 - - [17/Jul/2018:10:20:12 +0800] "GET /live/home HTTP/1.1" 404 179 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6 like Mac OS X; zh-cn) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/15D100 Quark/2.2.9.989 Mobile"
+192.168.1.119 - - [17/Jul/2018:10:20:12 +0800] "GET /favicon.ico HTTP/1.1" 404 179 "-" "%E5%A4%B8%E5%85%8B%E6%B5%8F%E8%A7%88%E5%99%A8/2.2.9.989 CFNetwork/958.1 Darwin/18.0.0"
+192.168.1.119 [17/Jul/2018:10:20:59 +0800] PUBLISH "live" "home" "" - 8391156 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+192.168.1.119 [17/Jul/2018:10:22:54 +0800] PUBLISH "live" "home" "" - 8391156 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+192.168.1.119 [17/Jul/2018:10:23:15 +0800] PLAY "live" "home" "" - 432 16250380 "" "LNX 9,0,124,2" (3m 45s)
+192.168.1.119 [17/Jul/2018:10:29:14 +0800] PUBLISH "live" "home" "" - 8391180 565 "" "FMLE/3.0 (compatible; Lavf58.17" (5m 54s)
+192.168.1.119 [17/Jul/2018:10:29:24 +0800] PLAY "live" "home" "" - 468 6032116 "" "LNX 9,0,124,2" (6m 34s)
+192.168.1.119 [17/Jul/2018:10:29:27 +0800] PLAY "live" "home" "" - 372 66610 "" "LNX 9,0,124,2" (2s)
+192.168.1.119 [17/Jul/2018:10:30:51 +0800] PUBLISH "live" "home" "" - 8391156 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+192.168.1.119 [17/Jul/2018:10:33:40 +0800] PLAY "live" "home" "" - 380 436 "" "LNX 9,0,124,2" (1s)
+192.168.1.119 [17/Jul/2018:10:33:42 +0800] PLAY "live" "home" "" - 380 28463 "" "LNX 9,0,124,2" (3s)
+192.168.1.119 [17/Jul/2018:10:33:44 +0800] PLAY "live" "home" "" - 380 67272 "" "LNX 9,0,124,2" (2s)
+192.168.1.119 [17/Jul/2018:10:33:44 +0800] PLAY "live" "home" "" - 380 454 "" "LNX 9,0,124,2" (0s)
+192.168.1.119 [17/Jul/2018:10:33:48 +0800] PLAY "live" "home" "" - 380 210045 "" "LNX 9,0,124,2" (3s)
+192.168.1.119 [17/Jul/2018:10:33:51 +0800] PLAY "live" "home" "" - 380 187625 "" "LNX 9,0,124,2" (2s)
+192.168.1.119 [17/Jul/2018:10:33:52 +0800] PLAY "live" "home" "" - 380 436 "" "LNX 9,0,124,2" (1s)
+192.168.1.119 [17/Jul/2018:10:34:35 +0800] PLAY "live" "home" "" - 425 1083014 "" "LNX 9,0,124,2" (43s)
+192.168.1.119 [17/Jul/2018:10:35:08 +0800] PLAY "live" "home" "" - 456 15411802 "" "LNX 9,0,124,2" (5m 40s)
+192.168.1.119 [17/Jul/2018:10:35:08 +0800] PUBLISH "live" "home" "" - 8391156 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+192.168.1.119 [17/Jul/2018:10:48:04 +0800] PLAY "live" "home" "" - 380 436 "" "LNX 9,0,124,2" (21s)
+192.168.1.119 [17/Jul/2018:10:48:15 +0800] PLAY "live" "home" "" - 380 436 "" "LNX 9,0,124,2" (11s)
+192.168.1.119 [17/Jul/2018:10:48:16 +0800] PLAY "live" "home" "" - 380 436 "" "LNX 9,0,124,2" (0s)
+192.168.1.119 [17/Jul/2018:10:48:16 +0800] PLAY "live" "home" "" - 380 58155 "" "LNX 9,0,124,2" (1s)
+192.168.1.119 [17/Jul/2018:10:48:17 +0800] PLAY "live" "home" "" - 372 436 "" "LNX 9,0,124,2" (0s)
+192.168.1.119 [17/Jul/2018:10:48:17 +0800] PLAY "live" "home" "" - 372 1995 "" "LNX 9,0,124,2" (0s)
+192.168.1.119 [17/Jul/2018:10:48:44 +0800] PLAY "live" "home" "" - 380 436 "" "LNX 9,0,124,2" (26s)
+192.168.1.119 [17/Jul/2018:10:48:44 +0800] PLAY "live" "home" "" - 380 221813 "" "LNX 9,0,124,2" (27s)
+192.168.1.119 [17/Jul/2018:10:48:45 +0800] PLAY "live" "home" "" - 380 16097 "" "LNX 9,0,124,2" (0s)
+192.168.1.119 [17/Jul/2018:10:49:06 +0800] PLAY "live" "home" "" - 380 436 "" "LNX 9,0,124,2" (21s)
+192.168.1.119 [17/Jul/2018:10:49:12 +0800] PLAY "live" "home" "" - 380 436 "" "LNX 9,0,124,2" (6s)
+192.168.1.119 [17/Jul/2018:10:49:14 +0800] PUBLISH "live" "home" "" - 8391156 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+192.168.1.119 [17/Jul/2018:10:49:22 +0800] PLAY "live" "home" "" - 380 35981 "" "LNX 9,0,124,2" (15s)
+192.168.1.119 [17/Jul/2018:10:49:22 +0800] PLAY "live" "home" "" - 380 436 "" "LNX 9,0,124,2" (0s)
+192.168.1.119 [17/Jul/2018:10:49:27 +0800] PLAY "live" "home" "" - 372 436 "" "LNX 9,0,124,2" (4s)
+192.168.1.119 [17/Jul/2018:10:49:44 +0800] PLAY "live" "home" "" - 372 436 "" "LNX 9,0,124,2" (10s)
+192.168.1.119 [17/Jul/2018:10:50:02 +0800] PLAY "live" "home" "" - 372 436 "" "LNX 9,0,124,2" (17s)
+192.168.1.119 [17/Jul/2018:10:51:10 +0800] PUBLISH "live" "home" "" - 8391156 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 36s)
+127.0.0.1 - - [22/Sep/2020:18:01:14 +0800] "GET / HTTP/1.1" 200 834 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+127.0.0.1 - - [22/Sep/2020:18:01:14 +0800] "GET /favicon.ico HTTP/1.1" 404 581 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+192.168.1.111 [22/Sep/2020:18:14:15 +0800] PUBLISH "live" "home" "" - 8391742 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+192.168.1.111 [22/Sep/2020:18:14:30 +0800] PLAY "live" "home" "" - 392 5359254 "" "LNX 9,0,124,2" (1m 9s)
+192.168.1.111 [22/Sep/2020:18:17:17 +0800] PLAY "live" "home" "" - 392 6782815 "" "LNX 9,0,124,2" (2m 7s)
+192.168.1.111 [22/Sep/2020:18:17:31 +0800] PUBLISH "live" "home" "" - 8391742 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+192.168.1.111 [22/Sep/2020:18:17:56 +0800] PUBLISH "live" "home" "" - 1398076 529 "" "FMLE/3.0 (compatible; Lavf58.17" (16s)
+192.168.1.111 [22/Sep/2020:18:18:19 +0800] PLAY "live" "home" "" - 384 2728635 "" "LNX 9,0,124,2" (1m 1s)
+192.168.1.111 [22/Sep/2020:18:18:31 +0800] PLAY "live" "home" "" - 372 867502 "" "LNX 9,0,124,2" (12s)
+192.168.1.111 [22/Sep/2020:18:19:38 +0800] PUBLISH "live" "home" "" - 8391742 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+192.168.1.111 [22/Sep/2020:18:21:13 +0800] PUBLISH "live" "home" "" - 8391742 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+192.168.1.111 [22/Sep/2020:18:25:57 +0800] PLAY "live" "home" "" - 414 526 "" "LNX 9,0,124,2" (7m 37s)
+192.168.1.111 [22/Sep/2020:18:26:43 +0800] PLAY "live" "home" "" - 372 436 "" "LNX 9,0,124,2" (45s)
+127.0.0.1 - - [22/Sep/2020:18:28:48 +0800] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+127.0.0.1 - - [22/Sep/2020:18:28:49 +0800] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+127.0.0.1 - - [22/Sep/2020:18:28:49 +0800] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+127.0.0.1 - - [22/Sep/2020:18:28:50 +0800] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+127.0.0.1 - - [22/Sep/2020:18:28:51 +0800] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+192.168.1.111 [22/Sep/2020:18:29:33 +0800] PUBLISH "live" "home" "" - 123236 409 "" "FMLE/3.0 (compatible; Lavf58.17" (2m 32s)
+192.168.1.111 [22/Sep/2020:18:30:36 +0800] PLAY "live" "home" "" - 393 472 "" "LNX 9,0,124,2" (3m 29s)
+192.168.1.111 [22/Sep/2020:18:33:08 +0800] PLAY "live" "orange" "" - 390 454 "" "LNX 9,0,124,2" (2m 44s)
+192.168.1.111 [22/Sep/2020:18:33:12 +0800] PLAY "live" "myVideo" "" - 378 436 "" "LNX 9,0,124,2" (3s)
+192.168.1.111 [22/Sep/2020:18:33:55 +0800] PUBLISH "live" "orange" "" - 8391764 547 "" "FMLE/3.0 (compatible; Lavf58.17" (3m 30s)
+192.168.1.111 [22/Sep/2020:18:34:13 +0800] PLAY "live" "myVideo" "" - 378 436 "" "LNX 9,0,124,2" (19s)
+192.168.1.111 [22/Sep/2020:18:35:33 +0800] PUBLISH "live" "orange" "" - 8391750 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+192.168.1.111 [22/Sep/2020:18:42:12 +0800] PLAY "live" "myVideo" "" - 427 544 "" "LNX 9,0,124,2" (7m 59s)
+192.168.1.111 [22/Sep/2020:18:47:49 +0800] PUBLISH "live" "myVideo" "" - 8391747 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+192.168.1.111 [22/Sep/2020:18:48:46 +0800] PLAY "live" "myVideo" "" - 406 7533000 "" "LNX 9,0,124,2" (2m 17s)
+192.168.1.111 [22/Sep/2020:18:48:49 +0800] PUBLISH "live" "h264" "" - 4670195 529 "" "FMLE/3.0 (compatible; Lavf58.17" (16s)
+192.168.1.111 [22/Sep/2020:18:49:31 +0800] PUBLISH "live" "h265" "" - 4670195 529 "" "FMLE/3.0 (compatible; Lavf58.17" (16s)
+192.168.1.111 [22/Sep/2020:18:53:39 +0800] PUBLISH "live" "h264" "" - 90728 529 "" "FMLE/3.0 (compatible; Lavf58.17" (6s)
+192.168.1.111 [22/Sep/2020:18:53:44 +0800] PLAY "live" "h265" "" - 419 4670429 "" "LNX 9,0,124,2" (4m 31s)
+192.168.1.111 [22/Sep/2020:18:55:39 +0800] PLAY "live" "h264" "" - 372 436 "" "LNX 9,0,124,2" (1m 55s)
+192.168.1.111 [22/Sep/2020:18:55:50 +0800] PUBLISH "live" "h265" "" - 4670195 529 "" "FMLE/3.0 (compatible; Lavf58.17" (16s)
+192.168.1.111 [22/Sep/2020:18:55:56 +0800] PLAY "live" "h265" "" - 372 1800111 "" "LNX 9,0,124,2" (16s)
+192.168.1.111 [22/Sep/2020:19:08:45 +0800] PLAY "live" "h265" "" - 456 634 "" "LNX 9,0,124,2" (12m 29s)
+192.168.1.111 [22/Sep/2020:19:08:46 +0800] PUBLISH "live" "h265" "" - 4670195 529 "" "FMLE/3.0 (compatible; Lavf58.17" (12m 35s)
+192.168.1.111 [22/Sep/2020:19:09:42 +0800] PLAY "live" "h265" "" - 372 54734 "" "LNX 9,0,124,2" (57s)
+192.168.1.111 [22/Sep/2020:19:10:50 +0800] PLAY "live" "myVideo" "" - 398 6365005 "" "LNX 9,0,124,2" (1m 8s)
+192.168.1.111 [22/Sep/2020:19:10:56 +0800] PUBLISH "live" "h265" "" - 4240338 529 "" "FMLE/3.0 (compatible; Lavf58.17" (16s)
+192.168.1.111 [22/Sep/2020:19:11:04 +0800] PUBLISH "live" "myVideo" "" - 9455225 529 "" "FMLE/3.0 (compatible; Lavf58.17" (2m 19s)
+192.168.1.111 [22/Sep/2020:19:11:34 +0800] PLAY "live" "h265" "" - 372 436 "" "LNX 9,0,124,2" (53s)
+192.168.1.111 [22/Sep/2020:19:12:36 +0800] PUBLISH "live" "myVideo" "" - 4240343 529 "" "FMLE/3.0 (compatible; Lavf58.17" (16s)
+192.168.1.111 [22/Sep/2020:19:21:23 +0800] PUBLISH "live" "h265" "" - 410 529 "" "FMLE/3.0 (compatible; Lavf58.17" (6s)
+192.168.1.111 [22/Sep/2020:19:22:12 +0800] PLAY "live" "myVideo" "" - 460 4245295 "" "LNX 9,0,124,2" (10m 38s)
+192.168.1.111 [22/Sep/2020:19:22:28 +0800] PLAY "live" "h265" "" - 372 436 "" "LNX 9,0,124,2" (16s)
+192.168.1.111 [22/Sep/2020:19:22:39 +0800] PLAY "live" "h265" "" - 372 1345765 "" "LNX 9,0,124,2" (10s)
+192.168.1.111 [22/Sep/2020:19:23:22 +0800] PLAY "live" "h265" "" - 372 436 "" "LNX 9,0,124,2" (53s)
+192.168.1.111 [22/Sep/2020:19:23:31 +0800] PUBLISH "live" "myVideo" "" - 4240343 529 "" "FMLE/3.0 (compatible; Lavf58.17" (16s)
+192.168.1.111 [22/Sep/2020:19:24:15 +0800] PLAY "live" "myVideo" "" - 378 1878829 "" "LNX 9,0,124,2" (52s)
+192.168.1.111 [22/Sep/2020:19:24:32 +0800] PLAY "live" "myVideo" "" - 378 436 "" "LNX 9,0,124,2" (17s)
+192.168.1.111 [22/Sep/2020:19:24:45 +0800] PLAY "live" "myVideo" "" - 378 2713057 "" "LNX 9,0,124,2" (12s)
+192.168.1.111 [22/Sep/2020:19:26:22 +0800] PUBLISH "live" "h265" "" - 117022036 529 "" "FMLE/3.0 (compatible; Lavf58.17" (4m 14s)
+192.168.1.111 [22/Sep/2020:19:26:31 +0800] PLAY "live" "myVideo" "" - 494 41203552 "" "LNX 9,0,124,2" (1m 45s)
+192.168.1.111 [22/Sep/2020:19:26:42 +0800] PUBLISH "live" "myVideo" "" - 4240343 529 "" "FMLE/3.0 (compatible; Lavf58.17" (16s)
+192.168.1.111 [22/Sep/2020:19:27:17 +0800] PUBLISH "live" "myVideo" "" - 415 529 "" "FMLE/3.0 (compatible; Lavf58.17" (0s)
+192.168.1.111 [22/Sep/2020:19:28:25 +0800] PUBLISH "live" "myVideo" "" - 117022041 529 "" "FMLE/3.0 (compatible; Lavf58.17" (4m 14s)
+192.168.1.111 [22/Sep/2020:19:28:54 +0800] PLAY "live" "myVideo" "" - 408 2848970 "" "LNX 9,0,124,2" (2m 23s)
+192.168.1.111 [22/Sep/2020:19:28:54 +0800] PUBLISH "live" "myVideo" "" - 415 529 "" "FMLE/3.0 (compatible; Lavf58.17" (6s)
+192.168.1.111 [22/Sep/2020:19:29:41 +0800] PLAY "live" "myVideo" "" - 378 436 "" "LNX 9,0,124,2" (46s)
+192.168.1.111 [22/Sep/2020:19:31:25 +0800] PLAY "live" "myVideo" "" - 378 436 "" "LNX 9,0,124,2" (1m 44s)
+192.168.1.111 [22/Sep/2020:19:31:37 +0800] PUBLISH "live" "myVideo" "" - 4240343 529 "" "FMLE/3.0 (compatible; Lavf58.17" (16s)
+192.168.1.111 [22/Sep/2020:19:31:54 +0800] PLAY "live" "myVideo" "" - 390 2850917 "" "LNX 9,0,124,2" (28s)
+192.168.1.111 [22/Sep/2020:19:31:55 +0800] PUBLISH "live" "myVideo" "" - 415 529 "" "FMLE/3.0 (compatible; Lavf58.17" (6s)
+192.168.1.111 [22/Sep/2020:19:32:47 +0800] PLAY "live" "myVideo" "" - 378 436 "" "LNX 9,0,124,2" (53s)
+192.168.1.111 [22/Sep/2020:19:32:47 +0800] PUBLISH "live" "myVideo" "" - 415 529 "" "FMLE/3.0 (compatible; Lavf58.17" (6s)
+192.168.1.111 [24/Sep/2020:19:04:37 +0800] PLAY "live" "myVideo" "" - 20335 51736 "" "LNX 9,0,124,2" (1d 23h 31m 50s)
+192.168.1.147 - - [27/Sep/2020:13:43:05 +0800] "GET / HTTP/1.0" 200 834 "-" "-"
+192.168.1.111 [27/Sep/2020:17:08:08 +0800] PUBLISH "live" "myVideo" "" - 338 409 "" "FMLE/3.0 (compatible; Lavf58.17" (0s)
+192.168.1.111 [27/Sep/2020:17:12:39 +0800] PUBLISH "live" "myVideo" "" - 338 409 "" "FMLE/3.0 (compatible; Lavf58.17" (0s)
+127.0.0.1 [27/Sep/2020:17:14:54 +0800] PUBLISH "hls" "cctv1" "" - 408 529 "" "FMLE/3.0 (compatible; Lavf58.17" (0s)
+192.168.1.111 [27/Sep/2020:17:16:54 +0800] PUBLISH "live" "myVideo" "" - 338 409 "" "FMLE/3.0 (compatible; Lavf58.17" (0s)
+192.168.1.111 [27/Sep/2020:17:17:33 +0800] PUBLISH "live" "myVideo" "" - 338 409 "" "FMLE/3.0 (compatible; Lavf58.17" (0s)
+192.168.1.111 [27/Sep/2020:17:18:29 +0800] PUBLISH "live" "myVideo" "" - 338 409 "" "FMLE/3.0 (compatible; Lavf58.17" (0s)
+192.168.1.111 [27/Sep/2020:17:18:45 +0800] PUBLISH "live" "myVideo" "" - 338 409 "" "FMLE/3.0 (compatible; Lavf58.17" (0s)
+192.168.1.111 [27/Sep/2020:17:19:48 +0800] PUBLISH "live" "myVideo" "" - 338 409 "" "FMLE/3.0 (compatible; Lavf58.17" (0s)
+192.168.1.111 [27/Sep/2020:17:20:16 +0800] PUBLISH "live" "myVideo" "" - 338 409 "" "FMLE/3.0 (compatible; Lavf58.17" (0s)
+127.0.0.1 - - [27/Sep/2020:18:45:00 +0800] "GET / HTTP/1.1" 200 834 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+127.0.0.1 - - [27/Sep/2020:18:45:00 +0800] "GET /favicon.ico HTTP/1.1" 404 581 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+127.0.0.1 - - [27/Sep/2020:18:54:56 +0800] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+127.0.0.1 - - [27/Sep/2020:18:55:06 +0800] "GET /hls HTTP/1.1" 301 195 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+127.0.0.1 - - [27/Sep/2020:18:55:06 +0800] "GET /hls/ HTTP/1.1" 403 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+127.0.0.1 - - [27/Sep/2020:18:55:15 +0800] "GET /hls/ HTTP/1.1" 403 581 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+127.0.0.1 - - [27/Sep/2020:19:14:24 +0800] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+127.0.0.1 - - [27/Sep/2020:19:14:31 +0800] "GET / HTTP/1.1" 200 834 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+127.0.0.1 - - [27/Sep/2020:19:14:31 +0800] "GET /favicon.ico HTTP/1.1" 404 581 "http://localhost:8765/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+127.0.0.1 - - [27/Sep/2020:19:14:35 +0800] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+127.0.0.1 [27/Sep/2020:19:22:00 +0800] PUBLISH "live" "home" "" - 8391703 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+127.0.0.1 [27/Sep/2020:19:25:10 +0800] PLAY "live" "home" "" - 423 5776712 "" "LNX 9,0,124,2" (4m 9s)
+127.0.0.1 - - [27/Sep/2020:19:25:56 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:25:59 +0800] "GET /hls/movie-21.ts HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:26:01 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:26:03 +0800] "GET /hls/movie-24.ts HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:26:05 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:26:07 +0800] "GET /hls/movie-26.ts HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:26:09 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:26:11 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 [27/Sep/2020:19:26:29 +0800] PUBLISH "hls" "movie" "" - 8391705 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+127.0.0.1 - - [27/Sep/2020:19:27:11 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:13 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 200 99 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:15 +0800] "GET /hls/movie-3.ts HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:28 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:28 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:41 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:41 +0800] "GET /hls/movie-15.ts HTTP/1.1" 200 171832 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:42 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:43 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:43 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:44 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:44 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:45 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:45 +0800] "GET /hls/movie-16.ts HTTP/1.1" 200 261696 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:48 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:48 +0800] "GET /hls/movie-17.ts HTTP/1.1" 200 271660 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:51 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:51 +0800] "GET /hls/movie-19.ts HTTP/1.1" 200 178788 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:53 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:53 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:55 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:55 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:57 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:27:57 +0800] "GET /hls/movie-21.ts HTTP/1.1" 200 247972 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:28:00 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:28:00 +0800] "GET /hls/movie-23.ts HTTP/1.1" 200 130096 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:28:02 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:28:03 +0800] "GET /hls/movie-24.ts HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:28:04 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 [27/Sep/2020:19:28:29 +0800] PUBLISH "hls" "movie" "" - 8391705 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+127.0.0.1 - - [27/Sep/2020:19:28:59 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:28:59 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:04 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 120 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:04 +0800] "GET /hls/movie-0.ts HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:25 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 99 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:25 +0800] "GET /hls/movie-8.ts HTTP/1.1" 200 170704 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:26 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 99 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:27 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:27 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:28 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 99 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:28 +0800] "GET /hls/movie-9.ts HTTP/1.1" 200 224096 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:31 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:31 +0800] "GET /hls/movie-10.ts HTTP/1.1" 200 237256 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:34 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:34 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:37 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:37 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:40 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:40 +0800] "GET /hls/movie-14.ts HTTP/1.1" 200 161492 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:41 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:42 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:43 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:43 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:44 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:46 +0800] "GET /hls/movie-15.ts HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:29:47 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 [27/Sep/2020:19:30:28 +0800] PUBLISH "hls" "movie" "" - 8391705 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+127.0.0.1 [27/Sep/2020:19:33:10 +0800] PLAY "vod" "mp4:orange.mp4" "" - 422 10428305 "" "LNX 9,0,124,2" (1m 4s)
+127.0.0.1 - - [27/Sep/2020:19:33:10 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 99 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:10 +0800] "GET /hls/movie-3.ts HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:19 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:19 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:29 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:29 +0800] "GET /hls/movie-11.ts HTTP/1.1" 200 124456 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:30 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:31 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:31 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:32 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:32 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:33 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:33 +0800] "GET /hls/movie-12.ts HTTP/1.1" 200 304936 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:36 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:36 +0800] "GET /hls/movie-13.ts HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:39 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:40 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:47 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:47 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:57 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:57 +0800] "GET /hls/movie-23.ts HTTP/1.1" 200 130096 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:59 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:33:59 +0800] "GET /hls/movie-24.ts HTTP/1.1" 200 171080 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:01 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:01 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:03 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:03 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:05 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:05 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:07 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:07 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:09 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:09 +0800] "GET /hls/movie-29.ts HTTP/1.1" 200 193076 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:11 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:11 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:13 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:13 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:15 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:15 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:17 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:17 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:19 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:19 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:21 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:21 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:23 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:23 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:25 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 101 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:25 +0800] "GET /hls/movie-34.ts HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 [27/Sep/2020:19:34:26 +0800] PUBLISH "hls" "movie" "" - 8391705 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+127.0.0.1 - - [27/Sep/2020:19:34:59 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 99 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:34:59 +0800] "GET /hls/movie-1.ts HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:35:07 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 99 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:35:07 +0800] "GET /hls/movie-4.ts HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:35:10 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 99 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:35:10 +0800] "GET /hls/movie-5.ts HTTP/1.1" 200 204920 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:35:13 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 99 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:35:16 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:35:16 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:35:19 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 99 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:35:19 +0800] "GET /hls/movie-8.ts HTTP/1.1" 200 170704 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:35:20 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 99 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:35:21 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:35:21 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:35:22 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 99 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:35:22 +0800] "GET /hls/movie-9.ts HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 [27/Sep/2020:19:36:21 +0800] PUBLISH "hls" "movie" "" - 8391705 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+127.0.0.1 - - [27/Sep/2020:19:39:03 +0800] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+127.0.0.1 - - [27/Sep/2020:19:40:01 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 250 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:40:01 +0800] "GET /hls/movie-0.ts HTTP/1.1" 200 696540 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:40:01 +0800] "GET /hls/movie-1.ts HTTP/1.1" 200 479964 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:40:03 +0800] "GET /hls/movie-2.ts HTTP/1.1" 200 728124 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:40:05 +0800] "GET /hls/movie-3.ts HTTP/1.1" 200 661572 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:40:08 +0800] "GET /hls/movie-4.ts HTTP/1.1" 200 666836 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:40:11 +0800] "GET /hls/movie-5.ts HTTP/1.1" 200 589380 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:40:27 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 229 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:40:29 +0800] "GET /hls/movie-6.ts HTTP/1.1" 200 531288 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:40:31 +0800] "GET /hls/movie-7.ts HTTP/1.1" 200 587312 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:40:33 +0800] "GET /hls/movie-8.ts HTTP/1.1" 200 516624 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:40:35 +0800] "GET /hls/movie-9.ts HTTP/1.1" 200 501020 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:40:43 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 231 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:40:45 +0800] "GET /hls/movie-10.ts HTTP/1.1" 200 574716 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 [27/Sep/2020:19:40:45 +0800] PUBLISH "hls" "movie" "" - 8391705 529 "" "FMLE/3.0 (compatible; Lavf58.17" (1m 32s)
+127.0.0.1 - - [27/Sep/2020:19:40:47 +0800] "GET /hls/movie-11.ts HTTP/1.1" 200 975156 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:40:50 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 233 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:40:52 +0800] "GET /hls/movie-12.ts HTTP/1.1" 200 1312428 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:40:56 +0800] "GET /hls/movie-13.ts HTTP/1.1" 200 42864 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:40:59 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 233 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:41:08 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 233 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:41:17 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 233 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:41:26 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 233 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:41:35 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 233 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:41:44 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 233 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:41:53 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 206 233 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:42:02 +0800] "GET /hls/movie.m3u8 HTTP/1.1" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"
+127.0.0.1 - - [27/Sep/2020:19:42:02 +0800] "GET /hls/movie.m3u8 HTTP/1.0" 404 179 "-" "VLC/3.0.8 LibVLC/3.0.8"

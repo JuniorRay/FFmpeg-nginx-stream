@@ -1,0 +1,169 @@
+2018/07/17 10:12:15 [notice] 10352#8184: sockinit() attempting to access sockapi
+2018/07/17 10:12:15 [notice] 10352#8184: Access to sockapi succeded!
+2018/07/17 10:12:15 [notice] 10352#8184: using sockapi from "4;8;"
+2018/07/17 10:12:15 [notice] 2412#2420: sockinit() attempting to access sockapi
+2018/07/17 10:12:15 [notice] 2412#2420: Access to sockapi succeded!
+2018/07/17 10:12:15 [notice] 2412#2420: using sockapi from "4;8;"
+2018/07/17 10:20:12 [error] 10352#540: *13 CreateFile() "D:\nginx-1.7.11.3-Gryphon/html/live/home" failed (3: The system cannot find the path specified), client: 192.168.1.119, server: localhost, request: "GET /live/home HTTP/1.1", host: "192.168.1.119"
+2018/07/17 10:20:12 [error] 10352#540: *14 CreateFile() "D:\nginx-1.7.11.3-Gryphon/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.119, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.119"
+2020/09/22 15:16:50 [emerg] 95528#138688: CreateFile() "D:\nginx/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2020/09/22 17:57:21 [notice] 38456#54204: sockinit() attempting to access sockapi
+2020/09/22 17:57:21 [notice] 38456#54204: Access to sockapi succeded!
+2020/09/22 17:57:21 [notice] 38456#54204: using sockapi from "4;144;"
+2020/09/22 17:57:21 [notice] 49780#32176: sockinit() attempting to access sockapi
+2020/09/22 17:57:21 [notice] 49780#32176: Access to sockapi succeded!
+2020/09/22 17:57:21 [notice] 49780#32176: using sockapi from "4;8;"
+2020/09/22 18:01:14 [error] 38456#105992: *1 CreateFile() "D:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/09/22 18:44:47 [notice] 5496#5848: sockinit() attempting to access sockapi
+2020/09/22 18:44:47 [notice] 5496#5848: Access to sockapi succeded!
+2020/09/22 18:44:47 [notice] 5496#5848: using sockapi from "4;152;"
+2020/09/22 18:44:47 [notice] 5844#5840: sockinit() attempting to access sockapi
+2020/09/22 18:44:47 [notice] 5844#5840: Access to sockapi succeded!
+2020/09/22 18:44:47 [notice] 5844#5840: using sockapi from "4;8;"
+2020/09/27 14:58:34 [emerg] 15776#15792: CreateDirectory() "d:/tmp/hls" failed (3: The system cannot find the path specified)
+2020/09/27 14:59:03 [notice] 13784#10748: sockinit() attempting to access sockapi
+2020/09/27 14:59:03 [notice] 13784#10748: Access to sockapi succeded!
+2020/09/27 14:59:03 [notice] 13784#10748: using sockapi from "4;152;"
+2020/09/27 17:08:08 [crit] 13784#9600: *1 record:  failed to open file 'd:/tmp/av/myVideo-1601197688.flv' (3: The system cannot find the path specified), client: 192.168.1.111, server: 0.0.0.0:1935
+2020/09/27 17:08:08 [error] 13784#9600: *1 access forbidden by rule, client: 192.168.1.111, server: 0.0.0.0:1935
+2020/09/27 17:12:39 [crit] 13784#9600: *2 record:  failed to open file 'd:/tmp/av/myVideo-1601197959.flv' (3: The system cannot find the path specified), client: 192.168.1.111, server: 0.0.0.0:1935
+2020/09/27 17:12:39 [error] 13784#9600: *2 access forbidden by rule, client: 192.168.1.111, server: 0.0.0.0:1935
+2020/09/27 17:16:54 [crit] 13784#9600: *4 record:  failed to open file 'd:/tmp/av/myVideo-1601198214.flv' (3: The system cannot find the path specified), client: 192.168.1.111, server: 0.0.0.0:1935
+2020/09/27 17:16:54 [error] 13784#9600: *4 access forbidden by rule, client: 192.168.1.111, server: 0.0.0.0:1935
+2020/09/27 17:17:33 [crit] 13784#9600: *5 record:  failed to open file 'd:/tmp/av/myVideo-1601198253.flv' (3: The system cannot find the path specified), client: 192.168.1.111, server: 0.0.0.0:1935
+2020/09/27 17:17:33 [error] 13784#9600: *5 access forbidden by rule, client: 192.168.1.111, server: 0.0.0.0:1935
+2020/09/27 17:18:29 [crit] 13784#9600: *6 record:  failed to open file 'd:/tmp/av/myVideo-1601198309.flv' (3: The system cannot find the path specified), client: 192.168.1.111, server: 0.0.0.0:1935
+2020/09/27 17:18:29 [error] 13784#9600: *6 access forbidden by rule, client: 192.168.1.111, server: 0.0.0.0:1935
+2020/09/27 17:18:45 [crit] 13784#9600: *7 record:  failed to open file 'd:/tmp/av/myVideo-1601198325.flv' (3: The system cannot find the path specified), client: 192.168.1.111, server: 0.0.0.0:1935
+2020/09/27 17:18:45 [error] 13784#9600: *7 access forbidden by rule, client: 192.168.1.111, server: 0.0.0.0:1935
+2020/09/27 17:19:48 [crit] 13784#9600: *8 record:  failed to open file 'd:/tmp/av/myVideo-1601198388.flv' (3: The system cannot find the path specified), client: 192.168.1.111, server: 0.0.0.0:1935
+2020/09/27 17:19:48 [error] 13784#9600: *8 access forbidden by rule, client: 192.168.1.111, server: 0.0.0.0:1935
+2020/09/27 17:20:16 [crit] 13784#9600: *9 record:  failed to open file 'd:/tmp/av/myVideo-1601198416.flv' (3: The system cannot find the path specified), client: 192.168.1.111, server: 0.0.0.0:1935
+2020/09/27 17:20:16 [error] 13784#9600: *9 access forbidden by rule, client: 192.168.1.111, server: 0.0.0.0:1935
+2020/09/27 17:23:16 [emerg] 3936#16464: CreateFile() "D:\nginx/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2020/09/27 17:24:54 [emerg] 24144#15032: CreateFile() "D:\nginx/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2020/09/27 17:36:15 [notice] 26532#26536: signal process started (reload)
+2020/09/27 17:37:39 [notice] 13404#284: signal process started (reload)
+2020/09/27 17:37:39 [error] 13404#284: OpenEvent("Global\ngx_reload_15880") failed (2: The system cannot find the file specified)
+2020/09/27 17:37:59 [notice] 23940#25352: signal process started (reload)
+2020/09/27 17:37:59 [error] 23940#25352: OpenEvent("Global\ngx_reload_15880") failed (2: The system cannot find the file specified)
+2020/09/27 17:38:07 [notice] 22312#25612: signal process started (stop)
+2020/09/27 17:38:07 [error] 22312#25612: OpenEvent("Global\ngx_stop_15880") failed (2: The system cannot find the file specified)
+2020/09/27 17:38:27 [notice] 26008#25440: signal process started (stop)
+2020/09/27 17:38:27 [error] 26008#25440: OpenEvent("Global\ngx_stop_15880") failed (2: The system cannot find the file specified)
+2020/09/27 18:33:40 [notice] 4804#27868: signal process started (stop)
+2020/09/27 18:33:40 [error] 4804#27868: OpenEvent("Global\ngx_stop_15880") failed (2: The system cannot find the file specified)
+2020/09/27 18:34:48 [notice] 18740#160: signal process started (reload)
+2020/09/27 18:34:48 [error] 18740#160: OpenEvent("Global\ngx_reload_15880") failed (2: The system cannot find the file specified)
+2020/09/27 18:35:24 [notice] 27172#12392: signal process started (stop)
+2020/09/27 18:35:24 [error] 27172#12392: OpenEvent("Global\ngx_stop_15880") failed (2: The system cannot find the file specified)
+2020/09/27 18:44:39 [notice] 5348#8044: sockinit() attempting to access sockapi
+2020/09/27 18:44:39 [notice] 5348#8044: Access to sockapi succeded!
+2020/09/27 18:44:39 [notice] 5348#8044: using sockapi from "4;152;"
+2020/09/27 18:44:39 [notice] 10328#1956: sockinit() attempting to access sockapi
+2020/09/27 18:44:39 [notice] 10328#1956: Access to sockapi succeded!
+2020/09/27 18:44:39 [notice] 10328#1956: using sockapi from "4;8;"
+2020/09/27 18:45:00 [error] 5348#7972: *1 CreateFile() "D:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2020/09/27 18:54:48 [notice] 16740#14352: signal process started (reload)
+2020/09/27 18:54:48 [notice] 4040#14416: sockinit() attempting to access sockapi
+2020/09/27 18:54:48 [notice] 4040#14416: Access to sockapi succeded!
+2020/09/27 18:54:48 [notice] 4040#14416: using sockapi from "4;8;"
+2020/09/27 18:54:48 [notice] 13424#10084: sockinit() attempting to access sockapi
+2020/09/27 18:54:48 [notice] 13424#10084: Access to sockapi succeded!
+2020/09/27 18:54:48 [notice] 13424#10084: using sockapi from "4;8;"
+2020/09/27 18:55:06 [error] 4040#11400: *4 directory index of "d:/tmp/hls/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /hls/ HTTP/1.1", host: "localhost"
+2020/09/27 18:55:15 [error] 4040#11400: *4 directory index of "d:/tmp/hls/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /hls/ HTTP/1.1", host: "localhost"
+2020/09/27 19:07:37 [emerg] 12756#4748: "chunk_size" directive is duplicate in D:\nginx/conf\nginx-win-rtmp.conf:37
+2020/09/27 19:08:03 [notice] 5384#1956: signal process started (reload)
+2020/09/27 19:08:03 [emerg] 17212#15332: "chunk_size" directive is duplicate in D:\nginx/conf\nginx-win-rtmp.conf:37
+2020/09/27 19:08:43 [notice] 6676#2144: signal process started (stop)
+2020/09/27 19:09:03 [emerg] 8252#6184: "chunk_size" directive is duplicate in D:\nginx/conf\nginx-win-rtmp.conf:37
+2020/09/27 19:09:07 [emerg] 3904#11180: "chunk_size" directive is duplicate in D:\nginx/conf\nginx-win-rtmp.conf:37
+2020/09/27 19:10:21 [emerg] 14540#2960: unknown directive "//点播" in D:\nginx/conf\nginx-win-rtmp.conf:39
+2020/09/27 19:11:31 [emerg] 1964#1960: host not found in url "myserver.com/vod/" in D:\nginx/conf\nginx-win-rtmp.conf:48
+2020/09/27 19:14:14 [notice] 5056#10856: sockinit() attempting to access sockapi
+2020/09/27 19:14:14 [notice] 5056#10856: Access to sockapi succeded!
+2020/09/27 19:14:14 [notice] 5056#10856: using sockapi from "4;152;156;"
+2020/09/27 19:14:14 [notice] 3568#4120: sockinit() attempting to access sockapi
+2020/09/27 19:14:14 [notice] 3568#4120: Access to sockapi succeded!
+2020/09/27 19:14:14 [notice] 3568#4120: using sockapi from "4;8;12;"
+2020/09/27 19:14:31 [error] 5056#9900: *4 CreateFile() "D:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8765", referrer: "http://localhost:8765/"
+2020/09/27 19:25:59 [error] 3568#17196: *11 CreateFile() "d:/tmp/hls/movie-21.ts" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie-21.ts HTTP/1.1", host: "localhost:8765"
+2020/09/27 19:26:03 [error] 5056#9900: *13 CreateFile() "d:/tmp/hls/movie-24.ts" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie-24.ts HTTP/1.1", host: "localhost:8765"
+2020/09/27 19:26:07 [error] 3568#17196: *15 CreateFile() "d:/tmp/hls/movie-26.ts" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie-26.ts HTTP/1.1", host: "localhost:8765"
+2020/09/27 19:26:09 [error] 5056#9900: *16 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "localhost:8765"
+2020/09/27 19:26:11 [error] 5056#9900: *17 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "localhost:8765"
+2020/09/27 19:27:11 [error] 5056#9900: *19 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "localhost:8765"
+2020/09/27 19:27:15 [error] 5056#9900: *21 CreateFile() "d:/tmp/hls/movie-3.ts" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie-3.ts HTTP/1.1", host: "localhost:8765"
+2020/09/27 19:27:28 [error] 5056#9900: *22 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:27:28 [error] 5056#9900: *23 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:27:43 [error] 5056#9900: *27 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:27:43 [error] 5056#9900: *28 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:27:44 [error] 5056#9900: *29 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:27:44 [error] 5056#9900: *30 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:27:53 [error] 5056#9900: *34 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:27:53 [error] 5056#9900: *35 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:27:55 [error] 5056#9900: *36 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:27:55 [error] 5056#9900: *37 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:28:03 [error] 5056#9900: *25 CreateFile() "d:/tmp/hls/movie-24.ts" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie-24.ts HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:28:59 [error] 5056#9900: *44 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:28:59 [error] 5056#9900: *45 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:29:04 [error] 5056#9900: *47 CreateFile() "d:/tmp/hls/movie-0.ts" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie-0.ts HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:29:27 [error] 5056#9900: *51 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:29:27 [error] 5056#9900: *52 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:29:34 [error] 5056#9900: *55 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:29:34 [error] 3568#17196: *56 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:29:37 [error] 5056#9900: *57 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:29:37 [error] 5056#9900: *58 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:29:43 [error] 5056#9900: *62 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:29:43 [error] 5056#9900: *63 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:29:46 [error] 3568#17196: *49 CreateFile() "d:/tmp/hls/movie-15.ts" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie-15.ts HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:33:10 [error] 3568#17196: *69 CreateFile() "d:/tmp/hls/movie-3.ts" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie-3.ts HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:33:19 [error] 5056#9900: *70 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:33:19 [error] 3568#17196: *71 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:33:31 [error] 3568#17196: *75 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:33:31 [error] 3568#17196: *76 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:33:32 [error] 3568#17196: *77 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:33:32 [error] 3568#17196: *78 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:33:36 [error] 3568#17196: *73 CreateFile() "d:/tmp/hls/movie-13.ts" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie-13.ts HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:33:47 [error] 3568#17196: *83 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:33:47 [error] 5056#9900: *84 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:34:01 [error] 3568#17196: *88 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:34:01 [error] 3568#17196: *89 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:34:03 [error] 3568#17196: *90 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:34:03 [error] 3568#17196: *91 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:34:05 [error] 5056#9900: *92 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:34:05 [error] 3568#17196: *93 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:34:07 [error] 3568#17196: *94 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:34:07 [error] 3568#17196: *95 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:34:11 [error] 3568#17196: *97 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:34:11 [error] 5056#9900: *98 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:34:13 [error] 3568#17196: *99 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:34:13 [error] 5056#9900: *100 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:34:15 [error] 3568#17196: *101 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:34:15 [error] 5056#9900: *102 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:34:17 [error] 5056#9900: *103 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:34:17 [error] 5056#9900: *104 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:34:19 [error] 3568#17196: *105 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:34:19 [error] 3568#17196: *106 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:34:21 [error] 3568#17196: *107 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:34:21 [error] 3568#17196: *108 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:34:23 [error] 3568#17196: *109 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:34:23 [error] 3568#17196: *110 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:34:25 [error] 3568#17196: *86 CreateFile() "d:/tmp/hls/movie-34.ts" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie-34.ts HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:34:59 [error] 3568#17196: *114 CreateFile() "d:/tmp/hls/movie-1.ts" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie-1.ts HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:35:07 [error] 3568#17196: *116 CreateFile() "d:/tmp/hls/movie-4.ts" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie-4.ts HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:35:16 [error] 5056#9900: *120 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:35:16 [error] 5056#9900: *121 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:35:21 [error] 3568#17196: *124 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:35:21 [error] 5056#9900: *125 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
+2020/09/27 19:35:22 [error] 3568#17196: *118 CreateFile() "d:/tmp/hls/movie-9.ts" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie-9.ts HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:38:41 [notice] 10528#12516: signal process started (stop)
+2020/09/27 19:39:01 [notice] 13040#8420: sockinit() attempting to access sockapi
+2020/09/27 19:39:01 [notice] 13040#8420: Access to sockapi succeded!
+2020/09/27 19:39:01 [notice] 13040#8420: using sockapi from "4;152;156;"
+2020/09/27 19:39:01 [notice] 12308#8884: sockinit() attempting to access sockapi
+2020/09/27 19:39:01 [notice] 12308#8884: Access to sockapi succeded!
+2020/09/27 19:39:01 [notice] 12308#8884: using sockapi from "4;8;12;"
+2020/09/27 19:42:02 [error] 13040#15908: *21 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "127.0.0.1:8765"
+2020/09/27 19:42:02 [error] 13040#15908: *22 CreateFile() "d:/tmp/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "127.0.0.1:8765"
