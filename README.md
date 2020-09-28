@@ -121,9 +121,13 @@ ffmpeg -i h264.mp4 -c:v libx265 -c:a copy h265.mp4
 ffmpeg -i h265.mkv -map 0 -c:a copy -c:s copy -c:v libx264 h264.mkv
 
 11.切割文件成hls切片命令并用nginx代理播放(h264) nginx-win-rtmp.conf 已经配置目录代理
+```code
 ffmpeg  -re -i orange.mp4 -codec:v libx264  -map 0 -f hls  -hls_list_size 6 -hls_wrap 10 -hls_time 10 D://tmp/hls/play.m3u8
+```
 播放地址为：http://127.0.0.1:8765/hls/play.m3u8
 
 12.切割文件成hls切片命令并用nginx代理播放(h265)
+```code
 ffmpeg  -re -i h265.mp4 -codec:v libx265  -map 0 -f hls  -hls_list_size 6 -hls_wrap 10 -hls_time 10 D://tmp/hls/play265video.m3u8
+```
 播放地址为：http://127.0.0.1:8765/hls/play265video.m3u8
