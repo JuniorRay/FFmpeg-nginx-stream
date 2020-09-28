@@ -82,7 +82,7 @@ rtmp://127.0.0.1:1935/live/home
 
 
 
-7.hls直播（会在d:/tmp/hls 生成ts文件，如果没有该文件夹请创建）
+7.hls直播（会在d:/tmp/hls 生成ts文件，如果没有该文件夹请创建，原理就是通8765端口代理到该文件里面生成的对应的movie.m3u8文件然后指向ts片段）
 
 ```code
 ffmpeg -re -i orange.mp4 -vcodec libx264 -acodec aac -f flv rtmp://127.0.0.1:1935/hls/movie
