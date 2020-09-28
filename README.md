@@ -89,9 +89,11 @@ ffmpeg -re -i orange.mp4 -vcodec libx264 -acodec aac -f flv rtmp://127.0.0.1:193
 ```
 电脑打开vlc播放器      输入地址:
 ```code
-①http://127.0.0.1:8765/hls/movie.m3u8（HLS） 
+①（HLS）
+http://127.0.0.1:8765/hls/movie.m3u8 
 
-②rtmp://127.0.0.1:1935/hls/movie（RTMP）
+②（RTMP）
+rtmp://127.0.0.1:1935/hls/movie
 ```
 
 
