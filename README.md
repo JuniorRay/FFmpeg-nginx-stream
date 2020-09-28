@@ -21,11 +21,11 @@
 3.启动nginx服务器
 
 进入windows的cmd; 
-
-> cd nginx-1.7.11.3-Gryphon    //进入nginx的目录，目录不要带中文！！！否则无法执行
+```shell
+> cd D://nginx    //进入nginx的目录(我的是放在D://nginx)，目录不要带中文！！！否则无法执行
 
 > nginx.exe -c conf\nginx-win-rtmp.conf   //运行rtmp配置文件 
-
+```
      注意：此时命令行会一直处于执行中 不用理会  也不要关闭
 
 测试：浏览器输入localhost:80  ，如果出现如下页面 说明配置nginx启动成功!
@@ -35,7 +35,7 @@
 
 4.配置FFmpeg
 
-解压：将ffmpeg解压到指定目录 我这里是D:\ffmpeg 
+解压：将ffmpeg放到指定目录 我这里是D://ffmpeg 
 
 环境配置：右键我的电脑（win10是此电脑） -- 》 属性  --》 高级系统设置 --》高级 --》环境变量--》打开Path ，将 D:\ffmpeg\bin （你的ffmepg解压目录下的bin目录的绝对路径）添加到Path 路径下；具体方法不会的可以的百度 
 
