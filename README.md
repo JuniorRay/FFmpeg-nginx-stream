@@ -8,14 +8,14 @@
 ```code
 开发环境：windows
 
-开发工具：FFmpeg、nginx、nginx-rmtp-module
+开发工具：FFmpeg、nginx、nginx-rtmp-module
 ```
-简介：Nginx是一款轻量级的Web 服务器/反向代理服务器及电子邮件（IMAP/POP3）代理服务器。 nginx-rmtp-module是Nginx服务器的流媒体插件。nginx通过rtmp模块提供rtmp服务, ffmpeg推送一个rtmp流到nginx, 然后客户端通过访问nginx来收看实时视频流
+简介：Nginx是一款轻量级的Web 服务器/反向代理服务器及电子邮件（IMAP/POP3）代理服务器。 nginx-rtmp-module是Nginx服务器的流媒体插件。nginx通过rtmp模块提供rtmp服务, ffmpeg推送一个rtmp流到nginx, 然后客户端通过访问nginx来收看实时视频流
 
 
 2.准备文件
 
-       需要的配置文件，这里我就全部整理好了，包括Nginx、nginx-rmtp-module、FFmpeg和实例mp4视频
+       需要的配置文件，这里我就全部整理好了，包括Nginx、nginx-rtmp-module、FFmpeg和实例mp4视频
      
 
 3.启动nginx服务器
@@ -62,7 +62,7 @@
 
 ![Image text](view.png)
 
-6.rtmp直播
+6.rtmp直播(h264)
 
 （如果要用rtsp直接转，可以把下面的orange.mp4 换成rtsp://admin:123456@192.111.111.130:554/h264/ch4/main/av_stream）
 
@@ -82,16 +82,18 @@ rtmp://127.0.0.1:1935/live/home
 
 
 
-7.hls直播（会在d:/tmp/hls 生成ts文件，如果没有该文件夹请创建）
+7.hls直播（h264）（会在d:/tmp/hls 生成ts文件，如果没有该文件夹请创建，原理就是通8765端口代理到该文件里面生成的对应的movie.m3u8文件然后指向ts片段）
 
 ```code
 ffmpeg -re -i orange.mp4 -vcodec libx264 -acodec aac -f flv rtmp://127.0.0.1:1935/hls/movie
 ```
 电脑打开vlc播放器      输入地址:
 ```code
-①http://127.0.0.1:8765/hls/movie.m3u8（HLS） 
+①（HLS） 
+http://127.0.0.1:8765/hls/movie.m3u8
 
-②rtmp://127.0.0.1:1935/hls/movie（RTMP）
+②（RTMP）
+rtmp://127.0.0.1:1935/hls/movie
 ```
 
 
@@ -108,6 +110,20 @@ rtmp://localhost:1935/vod/orange.mp4
 
 ![Image text](vlc.png)
 
-大功告成！
+
  
- 
+9.h264转h265命令
+
+ffmpeg -i h264.mp4 -c:v libx265 -c:a copy h265.mp4
+
+10.h265转h264命令
+
+ffmpeg -i h265.mkv -map 0 -c:a copy -c:s copy -c:v libx264 h264.mkv
+
+11.切割文件成hls切片命令并用nginx代理播放(h264) nginx-win-rtmp.conf 已经配置目录代理
+ffmpeg  -re -i orange.mp4 -codec:v libx264  -map 0 -f hls  -hls_list_size 6 -hls_wrap 10 -hls_time 10 D://tmp/hls/play.m3u8
+播放地址为：http://127.0.0.1:8765/hls/play.m3u8
+
+12.切割文件成hls切片命令并用nginx代理播放(h265)
+ffmpeg  -re -i h265.mp4 -codec:v libx265  -map 0 -f hls  -hls_list_size 6 -hls_wrap 10 -hls_time 10 D://tmp/hls/play265video.m3u8
+播放地址为：http://127.0.0.1:8765/hls/play265video.m3u8
