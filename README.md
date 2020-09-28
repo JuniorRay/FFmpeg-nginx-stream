@@ -52,7 +52,7 @@
 
 然后输入一下指令：
 ```code
-    ffmpeg -re -i orange.mp4 -vcodec libx264 -acodec aac -f flv rtmp://你的ip地址:1935/live/home
+ffmpeg -re -i orange.mp4 -vcodec libx264 -acodec aac -f flv rtmp://你的ip地址:1935/live/home
 ```
 
      // 注意：192.168.1.119是我电脑的ip地址，需要替换成你的ip地址 (ip地址可通过cmd 的ipconfig指令获取)
@@ -113,13 +113,13 @@ rtmp://localhost:1935/vod/orange.mp4
 
  
 9.h264转h265命令
-
+```code
 ffmpeg -i h264.mp4 -c:v libx265 -c:a copy h265.mp4
-
+```
 10.h265转h264命令
-
+```code
 ffmpeg -i h265.mkv -map 0 -c:a copy -c:s copy -c:v libx264 h264.mkv
-
+```
 11.切割文件成hls切片命令并用nginx代理播放(h264) nginx-win-rtmp.conf 已经配置目录代理
 ```code
 ffmpeg  -re -i orange.mp4 -codec:v libx264  -map 0 -f hls  -hls_list_size 6 -hls_wrap 10 -hls_time 10 D://tmp/hls/play.m3u8
